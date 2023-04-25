@@ -5,7 +5,7 @@
   }
   
   body {
-    background-image: url('/views/style/image/cover-img.jpg');
+    background-image: url('/asset/cover-img.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     font-family: sans-serif;
